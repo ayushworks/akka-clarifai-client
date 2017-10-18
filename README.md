@@ -20,10 +20,10 @@ sbt test
 
 #### Following end points are supported by the API
 
-Method - POST
-URL - http://localhost:5000/images
-Body type - application/json
-Valid json -
+Method - POST <br/>
+URL - http://localhost:5000/images <br/>
+Body type - application/json <br/>
+Valid json - <br/>
 
 ```
 {
