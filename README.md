@@ -61,19 +61,19 @@ Clarifai API general model is used to derive predicted **concepts** for an image
 
 All images with following concept are grouped under **alcohol**
 
-1.wine
-2.bar
-3.alchol
-4.winery
+1.wine <br/>
+2.bar <br/>
+3.alchol <br/>
+4.winery <br/>
 
 All images with following concept are grouped under **computer**
 
-1.computer
-2.laptop
-3.monitor
-4.screen
+1.computer <br/>
+2.laptop <br/>
+3.monitor <br/>
+4.screen <br/>
 
 All images with following concept are grouped under **documents**
 
-1.file
-2.document
+1.file <br/>
+2.document <br/>
